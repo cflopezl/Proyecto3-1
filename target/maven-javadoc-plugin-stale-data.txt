@@ -1,0 +1,20 @@
+cmd.exe
+/X
+/C
+""C:\Program Files\Java\jdk1.8.0_261\jre\..\bin\javadoc.exe" @options @argfile"
+C:\Users\PEDRO\Desktop\proyectotres\target\site\apidocs\allclasses-frame.html = 1604193264109
+C:\Users\PEDRO\Desktop\proyectotres\target\site\apidocs\allclasses-noframe.html = 1604193264114
+C:\Users\PEDRO\Desktop\proyectotres\target\site\apidocs\argfile = 1604193256072
+C:\Users\PEDRO\Desktop\proyectotres\target\site\apidocs\constant-values.html = 1604193263171
+C:\Users\PEDRO\Desktop\proyectotres\target\site\apidocs\deprecated-list.html = 1604193264103
+C:\Users\PEDRO\Desktop\proyectotres\target\site\apidocs\help-doc.html = 1604193264133
+C:\Users\PEDRO\Desktop\proyectotres\target\site\apidocs\index-all.html = 1604193264072
+C:\Users\PEDRO\Desktop\proyectotres\target\site\apidocs\index.html = 1604193264120
+C:\Users\PEDRO\Desktop\proyectotres\target\site\apidocs\options = 1604193256066
+C:\Users\PEDRO\Desktop\proyectotres\target\site\apidocs\overview-frame.html = 1604193262820
+C:\Users\PEDRO\Desktop\proyectotres\target\site\apidocs\overview-summary.html = 1604193264126
+C:\Users\PEDRO\Desktop\proyectotres\target\site\apidocs\overview-tree.html = 1604193263994
+C:\Users\PEDRO\Desktop\proyectotres\target\site\apidocs\package-list = 1604193262792
+C:\Users\PEDRO\Desktop\proyectotres\target\site\apidocs\script.js = 1604193264136
+C:\Users\PEDRO\Desktop\proyectotres\target\site\apidocs\serialized-form.html = 1604193263262
+C:\Users\PEDRO\Desktop\proyectotres\target\site\apidocs\stylesheet.css = 1604187613925
